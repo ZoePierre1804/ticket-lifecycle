@@ -45,18 +45,18 @@ Replying to recipients of the ticket
   <img width="1512" height="982" alt="Screenshot 2025-09-12 at 10 53 03 PM" src="https://github.com/user-attachments/assets/2015e853-6d7a-4587-91f3-71fe45f020cd" />
 Replying to recipients of the ticket
   <img width="1512" height="982" alt="Screenshot 2025-09-12 at 10 55 46 PM" src="https://github.com/user-attachments/assets/21eb1f60-56fc-43df-950a-4d8763540a8c" />
-Closing out the ticket 
+Closing out the ticket resolved
   <img width="1512" height="982" alt="Screenshot 2025-09-12 at 11 01 41 PM" src="https://github.com/user-attachments/assets/4da813aa-04b2-48f2-b0d1-90d23a126cb5" />
-Resloved 
+As an end-user opened a new ticket 
   <img width="1512" height="982" alt="Screenshot 2025-09-12 at 11 01 59 PM" src="https://github.com/user-attachments/assets/b3909188-f368-4031-8228-5f18f0730040" />
-As an end-user opened a new ticket x
-  <img width="1512" height="982" alt="Screenshot 2025-09-12 at 11 07 19 PM" src="https://github.com/user-attachments/assets/caa41d36-c3d7-44eb-9b18-aea1283ddb0f" />
 Ticket request created
+  <img width="1512" height="982" alt="Screenshot 2025-09-12 at 11 07 19 PM" src="https://github.com/user-attachments/assets/caa41d36-c3d7-44eb-9b18-aea1283ddb0f" />
+Setting SLA for the ticket
   <img width="1512" height="982" alt="Screenshot 2025-09-12 at 11 10 53 PM" src="https://github.com/user-attachments/assets/1515ec19-492e-4a7b-a944-495efd818d20" />
-Setting SLA for the ticket 
+Replying to recipients  of the ticket
   <img width="1512" height="982" alt="Screenshot 2025-09-12 at 11 12 20 PM" src="https://github.com/user-attachments/assets/9c275fb7-c779-4d3e-afec-01d7bba1b339" />
-
-<img width="1512" height="982" alt="Screenshot 2025-09-12 at 11 15 07 PM" src="https://github.com/user-attachments/assets/88b1e800-226e-4608-8684-dd9740d4ab80" />
+Replying to recipients  of the ticket
+  <img width="1512" height="982" alt="Screenshot 2025-09-12 at 11 15 07 PM" src="https://github.com/user-attachments/assets/88b1e800-226e-4608-8684-dd9740d4ab80" />
 
 <img width="1512" height="982" alt="Screenshot 2025-09-12 at 11 16 04 PM" src="https://github.com/user-attachments/assets/ed4aa4a9-5503-4cda-bbb6-a6dde813f84c" />
 
