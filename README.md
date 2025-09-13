@@ -30,25 +30,44 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1512" height="982" alt="Screenshot 2025-09-12 at 10 14 43 PM" src="https://github.com/user-attachments/assets/cb4e5d7d-eddb-4e42-a952-c13c9bb845d4" />
 </p>
+<img width="1512" height="982" alt="Screenshot 2025-09-12 at 10 15 01 PM" src="https://github.com/user-attachments/assets/6274033e-7c0c-4fee-ab96-e98bdc2ff3dd" />
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+  <img width="1512" height="982" alt="Screenshot 2025-09-12 at 10 21 34 PM" src="https://github.com/user-attachments/assets/61e88a35-b8c0-4f3f-a407-8107ec8b8f70" />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+  <img width="1512" height="982" alt="Screenshot 2025-09-12 at 10 34 32 PM" src="https://github.com/user-attachments/assets/9b8cf8f8-1d4c-485a-a65b-123b2e5fefd7" />
+  
+<img width="1512" height="982" alt="Screenshot 2025-09-12 at 10 35 44 PM" src="https://github.com/user-attachments/assets/dc676667-f165-45ba-81ee-7e2682792ec2" />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+<img width="1512" height="982" alt="Screenshot 2025-09-12 at 10 48 39 PM" src="https://github.com/user-attachments/assets/048deabe-f727-4211-b475-936f202e3e40" />
+
+<img width="1512" height="982" alt="Screenshot 2025-09-12 at 10 53 03 PM" src="https://github.com/user-attachments/assets/2015e853-6d7a-4587-91f3-71fe45f020cd" />
+
+<img width="1512" height="982" alt="Screenshot 2025-09-12 at 10 55 46 PM" src="https://github.com/user-attachments/assets/21eb1f60-56fc-43df-950a-4d8763540a8c" />
+
+<img width="1512" height="982" alt="Screenshot 2025-09-12 at 11 01 41 PM" src="https://github.com/user-attachments/assets/4da813aa-04b2-48f2-b0d1-90d23a126cb5" />
+
+<img width="1512" height="982" alt="Screenshot 2025-09-12 at 11 01 59 PM" src="https://github.com/user-attachments/assets/b3909188-f368-4031-8228-5f18f0730040" />
+
+<img width="1512" height="982" alt="Screenshot 2025-09-12 at 11 07 19 PM" src="https://github.com/user-attachments/assets/caa41d36-c3d7-44eb-9b18-aea1283ddb0f" />
+
+<img width="1512" height="982" alt="Screenshot 2025-09-12 at 11 10 53 PM" src="https://github.com/user-attachments/assets/1515ec19-492e-4a7b-a944-495efd818d20" />
+
+<img width="1512" height="982" alt="Screenshot 2025-09-12 at 11 12 20 PM" src="https://github.com/user-attachments/assets/9c275fb7-c779-4d3e-afec-01d7bba1b339" />
+
+<img width="1512" height="982" alt="Screenshot 2025-09-12 at 11 15 07 PM" src="https://github.com/user-attachments/assets/88b1e800-226e-4608-8684-dd9740d4ab80" />
+
+<img width="1512" height="982" alt="Screenshot 2025-09-12 at 11 16 04 PM" src="https://github.com/user-attachments/assets/ed4aa4a9-5503-4cda-bbb6-a6dde813f84c" />
+
+<img width="1512" height="982" alt="Screenshot 2025-09-12 at 11 19 52 PM" src="https://github.com/user-attachments/assets/f2f04e5b-bd8e-4088-b48d-0c5a87cab952" />
+
+<img width="1512" height="982" alt="Screenshot 2025-09-12 at 11 20 03 PM" src="https://github.com/user-attachments/assets/844bf626-3979-4ca1-a730-2bfeff0fdc5a" />
+
+<img width="1512" height="982" alt="Screenshot 2025-09-12 at 11 24 28 PM" src="https://github.com/user-attachments/assets/ca018d3b-75ed-4e2c-84ed-ac8f4cbc1d7e" />
+
+<img width="1512" height="982" alt="Screenshot 2025-09-12 at 11 27 28 PM" src="https://github.com/user-attachments/assets/2563ec57-8537-432e-988a-8b5b0240a91c" />
+
+<img width="1512" height="982" alt="Screenshot 2025-09-12 at 11 29 50 PM" src="https://github.com/user-attachments/assets/32ac2b0d-42d9-4deb-88b4-1fb9552d5324" />
+
+<img width="1512" height="982" alt="Screenshot 2025-09-12 at 11 31 58 PM" src="https://github.com/user-attachments/assets/79cca322-77bb-46e1-b5a1-7bac1ef43d61" />
