@@ -59,15 +59,16 @@ Replying to recipients  of the ticket
   <img width="1512" height="982" alt="Screenshot 2025-09-12 at 11 15 07 PM" src="https://github.com/user-attachments/assets/88b1e800-226e-4608-8684-dd9740d4ab80" />
 Closing out the ticket 
   <img width="1512" height="982" alt="Screenshot 2025-09-12 at 11 16 04 PM" src="https://github.com/user-attachments/assets/ed4aa4a9-5503-4cda-bbb6-a6dde813f84c" />
-
-<img width="1512" height="982" alt="Screenshot 2025-09-12 at 11 19 52 PM" src="https://github.com/user-attachments/assets/f2f04e5b-bd8e-4088-b48d-0c5a87cab952" />
-
-<img width="1512" height="982" alt="Screenshot 2025-09-12 at 11 20 03 PM" src="https://github.com/user-attachments/assets/844bf626-3979-4ca1-a730-2bfeff0fdc5a" />
-
-<img width="1512" height="982" alt="Screenshot 2025-09-12 at 11 24 28 PM" src="https://github.com/user-attachments/assets/ca018d3b-75ed-4e2c-84ed-ac8f4cbc1d7e" />
-
-<img width="1512" height="982" alt="Screenshot 2025-09-12 at 11 27 28 PM" src="https://github.com/user-attachments/assets/2563ec57-8537-432e-988a-8b5b0240a91c" />
-
-<img width="1512" height="982" alt="Screenshot 2025-09-12 at 11 29 50 PM" src="https://github.com/user-attachments/assets/32ac2b0d-42d9-4deb-88b4-1fb9552d5324" />
-
-<img width="1512" height="982" alt="Screenshot 2025-09-12 at 11 31 58 PM" src="https://github.com/user-attachments/assets/79cca322-77bb-46e1-b5a1-7bac1ef43d61" />
+Resolved 
+  <img width="1512" height="982" alt="Screenshot 2025-09-12 at 11 19 52 PM" src="https://github.com/user-attachments/assets/f2f04e5b-bd8e-4088-b48d-0c5a87cab952" />
+As an end-user opened a new ticket 
+  <img width="1512" height="982" alt="Screenshot 2025-09-12 at 11 20 03 PM" src="https://github.com/user-attachments/assets/844bf626-3979-4ca1-a730-2bfeff0fdc5a" />
+Ticket request created 
+  <img width="1512" height="982" alt="Screenshot 2025-09-12 at 11 24 28 PM" src="https://github.com/user-attachments/assets/ca018d3b-75ed-4e2c-84ed-ac8f4cbc1d7e" />
+Setting SLA for the ticket 
+  <img width="1512" height="982" alt="Screenshot 2025-09-12 at 11 27 28 PM" src="https://github.com/user-attachments/assets/2563ec57-8537-432e-988a-8b5b0240a91c" />
+Replying to recipients  of the ticket 
+  <img width="1512" height="982" alt="Screenshot 2025-09-12 at 11 29 50 PM" src="https://github.com/user-attachments/assets/32ac2b0d-42d9-4deb-88b4-1fb9552d5324" />
+Closing out the ticket resolved 
+  <img width="1512" height="982" alt="Screenshot 2025-09-12 at 11 31 58 PM" src="https://github.com/user-attachments/assets/79cca322-77bb-46e1-b5a1-7bac1ef43d61" />
+All resolved tickets 
