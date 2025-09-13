@@ -57,8 +57,8 @@ Replying to recipients  of the ticket
   <img width="1512" height="982" alt="Screenshot 2025-09-12 at 11 12 20 PM" src="https://github.com/user-attachments/assets/9c275fb7-c779-4d3e-afec-01d7bba1b339" />
 Replying to recipients  of the ticket
   <img width="1512" height="982" alt="Screenshot 2025-09-12 at 11 15 07 PM" src="https://github.com/user-attachments/assets/88b1e800-226e-4608-8684-dd9740d4ab80" />
-
-<img width="1512" height="982" alt="Screenshot 2025-09-12 at 11 16 04 PM" src="https://github.com/user-attachments/assets/ed4aa4a9-5503-4cda-bbb6-a6dde813f84c" />
+Closing out the ticket 
+  <img width="1512" height="982" alt="Screenshot 2025-09-12 at 11 16 04 PM" src="https://github.com/user-attachments/assets/ed4aa4a9-5503-4cda-bbb6-a6dde813f84c" />
 
 <img width="1512" height="982" alt="Screenshot 2025-09-12 at 11 19 52 PM" src="https://github.com/user-attachments/assets/f2f04e5b-bd8e-4088-b48d-0c5a87cab952" />
 
